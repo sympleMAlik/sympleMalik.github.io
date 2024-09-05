@@ -1,7 +1,7 @@
 body {
-  background: rgb(7, 212, 120);
-  background-image: url("https://i.redd.it/rkjpd13vse961.gif");
-  color: rgb(18, 225, 60);
+  background: rgba(255, 64, 0, 0.326);
+  background-image: url("https://64.media.tumblr.com/cb58450ef918143c552f3588ee094fce/0fb3c4dd074e90e3-37/s500x750/9d5384f345429352d6f366e34fb09b6668f68643.gif");
+  color: rgb(255, 115, 0);
   padding: 10px;
   font-family: arial;
 }
@@ -20,12 +20,12 @@ nav {
 h1 {
   display: flex;
   align-items: center;
-  color: rgb(7, 255, 81);
+  color: rgb(255, 255, 255);
   flex: 1;
   margin: 0;
 }
 #nav-ul {
-  color: rgb(7, 255, 81);
+  color: rgb(230, 115, 0);
   list-style-image: none;
 }
 .nav-li {
@@ -34,7 +34,7 @@ h1 {
 }
 a {
   text-decoration: none;
-  color: #24e33e;
+  color: #ffffff;
 }
 
 /* main container area beneath menu */
@@ -56,7 +56,7 @@ main {
 
 /* portfolio styles */
 #interests {
-  border: 4px rgba(255, 247, 0, 0.902) ridge;
+  border: 4px rgba(255, 255, 255, 0.902) ridge;
   padding: 8px;
 }
 h2,
@@ -68,7 +68,7 @@ h3 {
 
  /* portfolio styles */
  .content h1 {
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 #portfolio {
@@ -77,18 +77,18 @@ h3 {
 }
 
 #portfolio li {
-  background: #000000;
+  background: #d4700c;
   padding: 10px;
   border-radius: 10px;
   margin-bottom: 10px;
 }
 
 #portfolio li:hover {
-  background: #12b72d;
+  background: #ffffff;
 }
 
 #portfolio a {
   text-decoration: none;
-  color: #eeff00;
+  color: #ff8c00;
 }
 
