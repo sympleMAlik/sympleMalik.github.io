@@ -1,6 +1,9 @@
 body {
   background: rgba(255, 64, 0, 0.326);
   background-image: url("https://64.media.tumblr.com/cb58450ef918143c552f3588ee094fce/0fb3c4dd074e90e3-37/s500x750/9d5384f345429352d6f366e34fb09b6668f68643.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
   color: rgb(255, 115, 0);
   padding: 10px;
   font-family: arial;
@@ -64,10 +67,8 @@ h3 {
   margin: 0px;
 }
 
-
-
- /* portfolio styles */
- .content h1 {
+/* portfolio styles */
+.content h1 {
   color: rgb(255, 255, 255);
 }
 
@@ -91,4 +92,3 @@ h3 {
   text-decoration: none;
   color: #ff8c00;
 }
-
